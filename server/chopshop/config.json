@@ -1,0 +1,11 @@
+{
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "osrp_chopshop",
+        "port": 3306,
+        "connectionLimit": 10, 
+        "multipleStatements": true
+    }
+}
